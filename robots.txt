@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotwitrip.github.io/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/app/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/assets/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/css/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/data/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/includes/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/item/sitemap.html.gz
+Sitemap: https://rotwitrip.github.io/src/sitemap.html.gz
